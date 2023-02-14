@@ -1,4 +1,4 @@
-import Avatar from '../img/lucas.jpg'
+import Avatar from '../img/eu.jpeg'
 
 import "../styles/components/sidebar.sass"
 import InformationContainer from './InformationContainer';
